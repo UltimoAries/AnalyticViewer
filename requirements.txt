@@ -1,0 +1,7 @@
+PyQt5>=5.15
+opencv-python>=4.5
+numpy>=1.20
+Pillow>=9.0  # Or just PIL if Pillow is not found by pip
+mss>=6.0
+torch>=2.0.0
+ultralytics>=8.0
